@@ -17,4 +17,5 @@ var_dump($matricula);
 echo "<br>";
 
 echo"Estou aprendendo Git e GitHub";
+echo"teste do git diff";
 ?>
